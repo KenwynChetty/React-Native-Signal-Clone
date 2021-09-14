@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://hr-azc.anonymous.signal-clone.exp.direct",
+  "packagerNgrokUrl": "https://packager.hr-azc.anonymous.signal-clone.exp.direct",
+  "ngrokPid": 7908,
+  "webpackServerPort": 19006,
+  "expoServerPort": 19000,
+  "packagerPort": 19000,
+  "packagerPid": null,
+  "devToolsPort": 19002
+}
